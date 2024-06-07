@@ -16,13 +16,13 @@
 
 - `src/`: Source files
   
-  `main.cpp`: Entry point of the program
-  `Diccionario.cpp` and `Diccionario.h`: Dictionary handling
-  `Grafo.cpp` and `Grafo.h`: Graph data structure
-  `Palabra.cpp` and `Palabra.h`: Word handling
-  `Trie.cpp` and `Trie.h`: Trie data structure
-  `TrieNode.cpp` and `TrieNode.h`: Trie node implementation
-  `archivo.txt`: Contains the dictionary of words to use in the program
+  - `main.cpp`: Entry point of the program
+  - `Diccionario.cpp` and `Diccionario.h`: Dictionary handling
+  - `Grafo.cpp` and `Grafo.h`: Graph data structure
+  - `Palabra.cpp` and `Palabra.h`: Word handling
+  - `Trie.cpp` and `Trie.h`: Trie data structure
+  - `TrieNode.cpp` and `TrieNode.h`: Trie node implementation
+  - `archivo.txt`: Contains the dictionary of words to use in the program
 
 
 ### Functionality
