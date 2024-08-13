@@ -1,5 +1,10 @@
 ## ScrabbleHelper
 
+<p align="center">
+  <img src="https://github.com/tortegaf/ScrabbleHelper/assets/124638175/3ded8743-f30a-47e2-96a3-80b08dc58a77" alt="Descripción de la imagen">
+</p>
+
+
 ### To Compile
 
 1. Navigate to the /src directory:
@@ -72,6 +77,3 @@
 
 ### Language
 The code is written in Spanish.
-    
-
-![imagen](https://github.com/tortegaf/ScrabbleHelper/assets/124638175/3ded8743-f30a-47e2-96a3-80b08dc58a77)
